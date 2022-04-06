@@ -1,0 +1,34 @@
+Mutant:
+Add_Mutant_2
+For test_DJ_balanced_input_length_equal_to_output 
+Lower bound:
+3
+Upper bound:
+30
+For test_DJ_balanced_result_contains_no_0s
+Lower bound:
+3
+Upper bound:
+30
+For test_DJ_constant_input_length_equal_to_output
+Lower bound: 
+3
+Upper bound: 
+30
+For test_DJ_constant_result_contains_no_1s
+Low bound: 
+3
+Upper bound: 
+30
+For test_DJ_constant_probability
+Low bound: 
+3
+Upper bound: 
+30
+For test_DJ_balanced_probability
+Low bound: 
+3
+Upper bound: 
+30
+Max Trial for each test
+10

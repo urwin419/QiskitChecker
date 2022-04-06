@@ -1,0 +1,14 @@
+Mutant:
+Replace_Mutant_5
+For test_BV_output_match_input
+Number of qubits
+4
+Length of the bitstring
+4
+For test_BV_output_probability
+Number of qubits
+4
+Length of the bitstring
+4
+Max Trial for each test
+10

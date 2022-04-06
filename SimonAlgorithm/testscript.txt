@@ -1,0 +1,9 @@
+Mutant:
+Add_Mutant_2
+For Simon's Algorithm
+Lower bound of the length of the bitstring
+4
+Upper bound of the length of the bitstring
+6
+Max Trial for each test
+10

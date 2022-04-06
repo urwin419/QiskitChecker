@@ -1,0 +1,362 @@
+
+##############Test Begin#################
+The problem space is 3 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 29 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'00000000000000000000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 16 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'0000000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 19 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'0000000000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 7 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'0000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 14 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'00000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 30 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000000000000000000000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 23 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'00000000000000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 26 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'00000000000000000000000000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 4 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'0000': 1000}
+There is no 1s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 3 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 26 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'00000000000000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 18 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 16 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'0000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 17 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'00000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 30 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000000000000000000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 21 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000000000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 25 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'0000000000000000000000000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in constant mode
+Deutsch Jozsa - Constant Oracle: {'000': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in constant mode
+Deutsch Jozsa - constant Oracle: {'000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 10 and in constant mode
+Deutsch Jozsa - constant Oracle: {'0000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 12 and in constant mode
+Deutsch Jozsa - constant Oracle: {'000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 23 and in constant mode
+Deutsch Jozsa - constant Oracle: {'00000000000000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 18 and in constant mode
+Deutsch Jozsa - constant Oracle: {'000000000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 29 and in constant mode
+Deutsch Jozsa - constant Oracle: {'00000000000000000000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 21 and in constant mode
+Deutsch Jozsa - constant Oracle: {'000000000000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 24 and in constant mode
+Deutsch Jozsa - constant Oracle: {'000000000000000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 26 and in constant mode
+Deutsch Jozsa - constant Oracle: {'00000000000000000000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 9 and in constant mode
+Deutsch Jozsa - constant Oracle: {'000000000': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 12 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 3 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 16 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111111111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 7 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 26 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111111111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 29 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111111111111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 11 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 23 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 14 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111': 1000}
+There is no 0s in the result for 1000 shots
+##############Test End#################
+
+##############Test Begin#################
+The problem space is 3 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 12 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 20 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 29 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111111111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 24 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 7 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 27 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111111111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 18 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 13 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111111111111': 1000}
+The output length is equal to the input length
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 9 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 30 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111111111111111111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 7 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 6 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 4 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 23 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'11111111111111111111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 24 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111111111111111111111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 3 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+##############Test Begin#################
+The problem space is 28 and in balanced mode
+Deutsch Jozsa - balanced Oracle: {'1111111111111111111111111111': 1000}
+The output probability satisfies the expected value
+###############Test End##################
+
+The test runs for 33401.82 ms
